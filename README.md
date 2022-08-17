@@ -5,7 +5,7 @@
       Building businesses and supporting business and entrepreneurship in my local community.
       
 - 🌱 I’m currently learning ...
-      JavaScript.  From writing in Vanilla JavaScript, through to Node.js, and grabbing React as a framework along the way.
+      Everything in JavaScript.  From writing in Vanilla JavaScript, through to Node.js, and grabbing React as a framework along the way.
       
 - 💞️ I’m looking to collaborate on ...
       Front-end projects based in JavaScript.
