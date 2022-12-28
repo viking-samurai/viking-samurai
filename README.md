@@ -11,8 +11,8 @@
       Front-end projects based in JavaScript.
       
 - 📫 How to reach me ...
-      Through my contact info at www.projectmuse.ca.  Otherwise, you can find me at my code-tutoring business: www.emmersion.ca.
-
+      Through my contact info at www.projectmuse.ca.
+      
 <!---
 viking-samurai/viking-samurai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
