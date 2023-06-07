@@ -5,10 +5,10 @@
       Building businesses and supporting entrepreneurship in my local community.
       
 - 🌱 I’m currently learning ...
-      Everything in JavaScript.  From writing in Vanilla JavaScript, through to Node.js, and grabbing React as a framework along the way.
+      Everything in JavaScript.  From writing in vanilla JavaScript, through to Node.js.
       
 - 💞️ I’m looking to collaborate on ...
-      Front-end projects based in JavaScript.
+      Front-end projects, particularly in areas which support local small businesses.
       
 - 📫 How to reach me ...
       Through my contact info at www.projectmuse.ca.
