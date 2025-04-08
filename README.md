@@ -5,10 +5,13 @@
       Building businesses and supporting entrepreneurship in my local community.
       
 - 🌱 I’m currently learning ...
-      Everything in JavaScript.  From writing in vanilla JavaScript, through to Node.js.
+      Everything in PHP.  From writing in vanilla PHP, through to frameworks like Laravel and Symfony.
+
+- 👽 I write code in ...
+      vanilla JavaScript, MERN stack, PHP, mySQL.
       
 - 💞️ I’m looking to collaborate on ...
-      Front-end projects, particularly in areas which support local small businesses.
+      Local businesses and Canadian businesses.
       
 - 📫 How to reach me ...
       Through my contact info at www.projectmuse.ca.
