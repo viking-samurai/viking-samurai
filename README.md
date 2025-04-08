@@ -8,7 +8,7 @@
       Everything in PHP.  From writing in vanilla PHP, through to frameworks like Laravel and Symfony.
 
 - 👽 I write code in ...
-      vanilla JavaScript, MERN stack, PHP, mySQL.
+      vanilla JavaScript, MERN stack, vanilla PHP, mySQL.
       
 - 💞️ I’m looking to collaborate on ...
       Local businesses and Canadian businesses.
